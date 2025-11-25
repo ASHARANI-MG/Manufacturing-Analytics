@@ -47,7 +47,7 @@ It helps manufacturing teams track performance, identify quality issues, and opt
 
 🕒 Time-based Filtering and Slicers
 
-🧮 Metrics Calculated
+## 🧮 Metrics Calculated
 
 **Manufactured Quantity** – Total units produced
 
