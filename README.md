@@ -84,7 +84,9 @@ Optional: View Tableau exploratory workbook.
 Explore the dashboard and interact with slicers.
 
 ## 📸 Dashboard
-![Dashboard Screenshot]()
+
+![Dashboard Screenshot](Tableau/Images/Tableau%20Dashboard%202.png)
+
 
 ## 📜 License
 
