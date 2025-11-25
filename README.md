@@ -7,21 +7,19 @@ This project is a complete Manufacturing Analytics solution, developed using Exc
 This end-to-end analytics project transforms raw manufacturing data into actionable insights.
 Using SQL for data extraction, Excel for data cleaning, Tableau for visualization exploration, and Power BI for the final interactive dashboard, the project provides a comprehensive view of:
 
-Manufactured Quantity
+**Manufactured Quantity**
 
-Rejected Quantity
+**Rejected Quantity**
 
-Wastage Percentage
+**Wastage Percentage**
 
-Manpower involvement
+**Manpower involvement**
 
-Production trends by date, shift, and item
+**Production trends by date, shift, and item**
 
 It helps manufacturing teams track performance, identify quality issues, and optimize operations.
 
-🎯 Key Features
-
-✅ Data Pipeline Across Four Tools — SQL (Extract), Excel (Clean), Tableau (Explore), Power BI (Final Dashboard).
+## 🎯 Key Features
 
 ✅ Interactive KPI Cards — Manufactured Qty, Rejected Qty, Wastage %, Employees, Operators.
 
@@ -35,7 +33,7 @@ It helps manufacturing teams track performance, identify quality issues, and opt
 
 ✅ Clean Industrial UI — Professionally aligned, easy-to-read manufacturing visuals.
 
-📊 Visualizations Included
+## 📊 Visualizations Included
 
 📈 Manufacturing Trend (Manufactured vs Rejected Qty)
 
@@ -51,28 +49,29 @@ It helps manufacturing teams track performance, identify quality issues, and opt
 
 🧮 Metrics Calculated
 
-Manufactured Quantity – Total units produced
+**Manufactured Quantity** – Total units produced
 
-Rejected Quantity – Defects or non-usable units
+**Rejected Quantity** – Defects or non-usable units
 
-Wastage Percentage – (Rejected / Manufactured) * 100
+**Wastage Percentage** – (Rejected / Manufactured) * 100
 
-Total Employees / Operators – Workforce involvement
+**Total Employees** – Workforce involvement
 
-Daily & Monthly Trends – Production behavior over time
+**Daily & Monthly Trends** – Production behavior over time
 
-🔗 Dataset
+## 🔗 Dataset
 
 Structure typically includes:
 Date • Shift • Item • Manufactured Qty • Rejected Qty • Employees • Operators
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Tool	Purpose
-SQL	Data extraction & basic transformation
-Excel	Cleaning, formatting & preprocessing
-Tableau	Exploratory visualizations
-Power BI	Final dashboard & insights
-📥 Installation / Usage
+- **SQL** -	Data extraction & basic transformation
+- **Excel** -	Cleaning, formatting & preprocessing
+- **Tableau** -	Exploratory visualizations
+- **Power BI** -	Final dashboard & insights
+
+## 📥 Installation / Usage
 
 Clone or download this repository.
 
@@ -84,14 +83,14 @@ Optional: View Tableau exploratory workbook.
 
 Explore the dashboard and interact with slicers.
 
-📸 Dashboard
+## 📸 Dashboard
 ![Dashboard Screenshot]()
 
-📜 License
+## 📜 License
 
 This project is for portfolio and educational use.
 
-✨ Created By
+## ✨ Created By
 
 Asharani M G
 🔗 GitHub: https://github.com/ASHARANI-MG
