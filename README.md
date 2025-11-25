@@ -1,8 +1,8 @@
-Manufacturing Analytics – Excel, SQL, Tableau & Power BI
+# Manufacturing Analytics – Excel, SQL, Tableau & Power BI
 
 This project is a complete Manufacturing Analytics solution, developed using Excel, SQL, Tableau, and Power BI, designed to analyze production performance, quality issues, manpower utilization, and operational efficiency.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This end-to-end analytics project transforms raw manufacturing data into actionable insights.
 Using SQL for data extraction, Excel for data cleaning, Tableau for visualization exploration, and Power BI for the final interactive dashboard, the project provides a comprehensive view of:
